@@ -1,10 +1,4 @@
-# VORON  
-
-![](https://github.com/mzbotreprap/VORON/blob/V2.0/Voron2.jpg)
-
-[Voron 2.0 Interlude](https://goo.gl/UtR1JU)  
-
-
+# VORON Mobius Extruder
 
 Reddit: [/r/voroncorexy](https://www.reddit.com/r/voroncorexy/)
 
