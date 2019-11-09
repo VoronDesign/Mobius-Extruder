@@ -7,3 +7,5 @@ This is the Roof Extruder, a Fork of Mobius3.1. It's a dual geared hobbed filame
 A Pancake or slightly larger stepper is recommended, torque should not exceed 36ozin for best performance.
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
+
+The BOM and Sourcing Guide for this product can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
